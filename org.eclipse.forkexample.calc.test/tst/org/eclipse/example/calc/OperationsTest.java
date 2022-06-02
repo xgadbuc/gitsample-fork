@@ -23,7 +23,7 @@ import org.junit.Test;
 public class OperationsTest {
 
 	private Square square;
-
+	//Das ist mein neuer Kommentar
 	@Before
 	public void setUp() throws Exception {
 		new Plus();

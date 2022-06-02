@@ -25,7 +25,7 @@ public class Calculator {
 	private String cmd;
 
 	private boolean clearText;
-
+// Wo ist die Doku?
 	private float value;
 
 	public static String NAME = "Simple Calculator";

@@ -18,6 +18,11 @@ import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
+/**
+ * Test
+ * @author xgadlai
+ *
+ */
 public class Calculator {
 
 	private TextProvider textProvider;

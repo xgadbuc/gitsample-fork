@@ -24,6 +24,7 @@ public class OperationsTest {
 
 	private Square square;
 	//Das ist mein neuer Kommentar
+	//Noch ein weiterer Kommentar
 	@Before
 	public void setUp() throws Exception {
 		new Plus();
